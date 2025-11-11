@@ -1,4 +1,4 @@
-# LangChain Course
+# LangChain 
 
 Welcome to the LangChain course by Aurelio AI!
 
